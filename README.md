@@ -66,6 +66,8 @@ certstream.listen_for_events(print_callback, on_open=on_open, on_error=on_error,
 
 ```
 
+
+
 We also support connection via http proxy:
 
 ```python
